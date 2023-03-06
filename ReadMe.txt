@@ -1,5 +1,5 @@
 -=[ Ring Buffer Capture Program 
--=[ Copyright Claes M. Nyberg <cmn@signedness.org>, 2004
+-=[ Copyright Claes M. Nyberg <cmn@signedness.org>, 2002
 
 This program captures packets into a FIFO queue.
 The size of the FIFO is 50MB by default, but can be changed on the
